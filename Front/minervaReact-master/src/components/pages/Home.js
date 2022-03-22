@@ -1,9 +1,6 @@
 import style from './Home.module.css'
 import bannerHome from '../img/mulher.jpg'
 import avatar from '../img/Avatar.png'
-import store from '../img/bolsa.png'
-import duvida from '../img/duvida.png'
-import cartao from '../img//cartao.png'
 
 function Home() {
   return (
