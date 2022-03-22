@@ -49,7 +49,7 @@ aside p {
 }
 
 .card {
-  background-color: blanchedalmond;
+  /* background-color: blanchedalmond; */
   padding: 2%;
   width: 100%;
   flex: 1;
@@ -58,7 +58,7 @@ aside p {
 }
 
 .sessaonew {
-  background-color: rgb(235, 66, 23);
+  /* background-color: rgb(235, 66, 23); */
   /* flex-direction: row; */
   width: 100%;
   flex: 1;
