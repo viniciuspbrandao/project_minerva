@@ -49,12 +49,15 @@ aside p {
 }
 
 .card {
-  /* background-color: blanchedalmond; */
+  background-color: blanchedalmond;
   padding: 2%;
-  width: 100%;
-  flex: 1;
   align-items: center;
   justify-content: center;
+
+  width: 100%;
+  flex: 1;
+  text-align: center;
+  color: rgb(219, 85, 131);
 }
 
 .sessaonew {
