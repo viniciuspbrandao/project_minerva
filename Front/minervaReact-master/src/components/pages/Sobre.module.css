@@ -1,0 +1,79 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+  color: rgb(219, 85, 131);
+}
+
+section {
+  width: 80%;
+  text-align: center;
+}
+
+.bannerhome {
+  margin-top: 1em;
+  width: 100%;
+  border-radius: 1em;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 1em;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 1em;
+  font-family: mont bold;
+}
+
+aside p {
+  font-size: 2.8vw;
+  font-family: mont italic;
+  color: indigo;
+}
+
+.avatar {
+  width: 10%;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+.loren {
+  justify-content: center;
+  text-align: center;
+  font-size: 2.3vw;
+  margin-bottom: 1em;
+}
+
+.dinamico {
+}
+
+.card {
+  background-color: blanchedalmond;
+  padding: 2%;
+  align-items: center;
+  justify-content: center;
+}
+
+.sessaonew {
+  background-color: rgb(235, 66, 23);
+  /* flex-direction: row; */
+  width: 100%;
+  flex: 1;
+  flex-wrap: wrap;
+
+  /* display: flexbox; */
+  /* border: 3px solid; */
+}
+
+.projetoCard {
+}
+
+.projetoCard h2 {
+  margin-top: 0em;
+}
+
+.projetoCard > p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
