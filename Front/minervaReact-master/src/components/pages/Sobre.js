@@ -5,7 +5,7 @@ import cartao from '../img//cartao.png'
 
 function Sobre() {
   return (
-    <div>
+    <div className={style.card}>
       <h1>O PROJETO</h1>
 
       <div className={style.projetoCard}>

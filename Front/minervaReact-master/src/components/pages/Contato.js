@@ -1,6 +1,8 @@
+import style from './Contato.module.css'
+
 function Contato() {
   return (
-    <div>
+    <div className={style.card}>
       <h2>Fale Conosco</h2>
       <div>
         <p>Envie um email para:</p>

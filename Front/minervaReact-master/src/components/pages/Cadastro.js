@@ -1,10 +1,12 @@
+import style from './Cadastro.module.css'
+
 function Form() {
   function cadastrarUsuario(e) {
     e.preventDefault()
     console.log('Cadastrou o usuário!')
   }
   return (
-    <div>
+    <div className={style.card}>
       <h1>Cadastre se:</h1>
       <form onSubmit={cadastrarUsuario}>
         <div>
