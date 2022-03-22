@@ -1,5 +1,5 @@
 body {
-  background-color: antiquewhite;
+  /* background-color: antiquewhite; */
   text-align: center;
   color: rgb(219, 85, 131);
 }
@@ -49,7 +49,7 @@ aside p {
 }
 
 .card {
-  background-color: blanchedalmond;
+  /* background-color: blanchedalmond; */
   padding: 2%;
   align-items: center;
   justify-content: center;
