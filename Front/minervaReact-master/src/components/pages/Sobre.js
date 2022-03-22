@@ -7,7 +7,7 @@ function Sobre() {
   return (
     <section>
       <main>
-        <div className={style.card}>
+        <div className={style.cardSobre}>
           <h1>O PROJETO</h1>
 
           <div className={style.projetoCard}>

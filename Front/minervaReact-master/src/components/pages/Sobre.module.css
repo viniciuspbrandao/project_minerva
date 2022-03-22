@@ -48,7 +48,7 @@ aside p {
 .dinamico {
 }
 
-.card {
+.cardSobre {
   /* background-color: blanchedalmond; */
   padding: 2%;
   align-items: center;
@@ -61,14 +61,9 @@ aside p {
 }
 
 .sessaonew {
-  /* background-color: rgb(235, 66, 23); */
-  /* flex-direction: row; */
   width: 100%;
   flex: 1;
   flex-wrap: wrap;
-
-  /* display: flexbox; */
-  /* border: 3px solid; */
 }
 
 .projetoCard h2 {
