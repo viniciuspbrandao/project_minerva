@@ -32,12 +32,6 @@ function Sobre() {
               <img className={style.avatar} src={cartao} />
             </picture>
             <h2>Faça seu cadastro! Junte-se a outras pessoas.</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-              voluptatum eius sapiente, totam reiciendis temporibus qui
-              quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-              dolore laudantium consectetur!{' '}
-            </p>
           </div>
         </div>
       </main>

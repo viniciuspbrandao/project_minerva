@@ -51,6 +51,7 @@ aside p {
   text-align: center;
   font-size: 2.3vw;
   margin-bottom: 1em;
+  font-size: large;
 }
 
 
@@ -70,6 +71,7 @@ aside p {
   width: 100%;
   flex: 1;
   flex-wrap: wrap;
+  
 }
 
 .projetoCard h2 {
