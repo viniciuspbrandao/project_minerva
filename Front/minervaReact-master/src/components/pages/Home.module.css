@@ -1,8 +1,16 @@
-body {
-  background-color: antiquewhite;
-  text-align: center;
+.principalText {
+  margin-top: 3%;
+  font-size: 3em;
   color: rgb(219, 85, 131);
 }
+
+.secundaryText {
+  margin-top: 3%;
+  font-size: 2em;
+  color: rgb(219, 85, 131);
+}
+
+
 
 section {
   width: 80%;
@@ -45,28 +53,23 @@ aside p {
   margin-bottom: 1em;
 }
 
-.dinamico {
-}
+
 
 .card {
   background-color: blanchedalmond;
   padding: 2%;
   align-items: center;
   justify-content: center;
+  border-radius: 5%;
+  border: 0.3em solid white;
 }
 
 .sessaonew {
-  background-color: rgb(235, 66, 23);
+  background-color: white;
   /* flex-direction: row; */
   width: 100%;
   flex: 1;
   flex-wrap: wrap;
-
-  /* display: flexbox; */
-  /* border: 3px solid; */
-}
-
-.projetoCard {
 }
 
 .projetoCard h2 {

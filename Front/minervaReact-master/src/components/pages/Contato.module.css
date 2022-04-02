@@ -1,5 +1,7 @@
 .card {
-  background-color: blanchedalmond;
+  /* background-color: blanchedalmond; */
+  
+  margin-top: 4%;
   padding: 2%;
   align-items: center;
   justify-content: center;
@@ -8,4 +10,9 @@
 
   text-align: center;
   color: rgb(219, 85, 131);
+}
+
+.textoSecundario {
+  padding: 2%;
+  font-size:  large;
 }

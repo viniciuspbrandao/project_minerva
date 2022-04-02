@@ -6,12 +6,12 @@ function Home() {
   return (
     <section>
       <main>
-        <h1>SEJA BEM-VINDA</h1>
+        <h1 className={style.principalText}>SEJA BEM-VINDA</h1>
         <picture>
           <img className={style.bannerhome} src={bannerHome} />
         </picture>
         <aside className={style.dinamico}>
-          <h2>COMO FUNCIONA</h2>
+          <h2 className={style.secundaryText}>COMO FUNCIONA</h2>
           <p>Conectamos Interesses</p>
 
           <div className={style.sessaonew}>
