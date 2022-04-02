@@ -16,6 +16,11 @@ body {
 
 .card {
   background-color: blanchedalmond;
+  width: 60%;
+  border-radius: 5%;
+  margin: 3%;
+  padding-left: 15%;
+  padding-bottom: 2%;
 }
 
 
@@ -43,7 +48,7 @@ body {
 }
 
 .botao {
-  padding: 2em;
+  padding: 0em;
 }
 
 input {

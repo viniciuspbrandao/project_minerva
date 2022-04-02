@@ -7,7 +7,7 @@ function Form() {
   }
 
   return (
-    <div /*className={style.card}*/>
+    <div className={style.card}>
       <h1 className={style.titulo}>Cadastre se:</h1>
 
       <form onSubmit={cadastrarUsuario}>
